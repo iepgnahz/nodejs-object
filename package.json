@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deleteKey": "node delete-key.js"
+    "deleteKey": "node delete-key.js",
+    "modifyKey": "node modify-key-name.js"
   },
   "author": "",
   "license": "ISC"
