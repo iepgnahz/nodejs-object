@@ -1,0 +1,11 @@
+{
+  "name": "modify-object-key-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deleteKey": "node delete-key.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
